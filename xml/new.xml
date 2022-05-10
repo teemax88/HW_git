@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<About>
+    <Person>
+        <FirstName>Тимур</FirstName>
+        <age>34</age>
+        <countAnimals>0</countAnimals>
+        <Price>100000</Price>
+        <Position>QA</Position>
+    </Person>
+</About>
