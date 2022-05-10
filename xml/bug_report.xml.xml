@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<About>
+    <bug_report>
+        <id>bug id</id>
+        <title>bug name</title>
+        <description>description of the bug (if needed)</description>
+        <precondition>preliminary steps (if needed)</precondition>
+        <steps_to_reproduce>description of steps to reproduce the bug</steps_to_reproduce>
+        <attachment>file attachment (screenshot, video file)</attachment>
+        <priority>bug fix priority</priority>
+        <severity>impact on the system</severity>
+        <assignee>assign execution to someone</assignee>
+    </bug_report>
+</About>

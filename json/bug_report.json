@@ -3,7 +3,7 @@
     "title" : "bug name",
     "description" : "description of the bug (if needed)",
     "precondition" : "preliminary steps (if needed)",
-    "steps to reproduce" : "description of steps to reproduce the bug",
+    "steps_to_reproduce" : "description of steps to reproduce the bug",
     "attachment" : "file attachment (screenshot, video file)",
     "priority" : "bug fix priority",
     "severity" : "impact on the system",
