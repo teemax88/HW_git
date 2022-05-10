@@ -1,7 +1,7 @@
 {
-	"console" : "linux",
-	"API" : "Postman"
+	"console" : "Linux",
+	"API" : "Postman",
 	"Theory" : "Client server architecture",
-	"Programming language" : "JavaScript",
+	"Programming_language" : "JavaScript",
 	"Framework" : "Chai.js"
 }

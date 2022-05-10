@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<About>
+    <Person>
+        <film>some title film</film>
+        <serial>some title serial</serial>
+        <food>some food</food>
+        <season>some lovely season</season>
+    </Person>
+</About>

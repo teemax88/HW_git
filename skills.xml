@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<About>
+    <skills>
+        <console>Linux</console>
+        <API>Postman</API>
+        <Theory>Client server architecture</Theory>
+        <Programming_language>JavaScript</Programming_language>
+        <Framework>Chai.js</Framework>
+    </skills>
+</About>
